@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ajasys.github.io/notes-mivwiy/sitemap.xml
